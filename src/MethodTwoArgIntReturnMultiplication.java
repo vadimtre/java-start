@@ -11,10 +11,4 @@ public MethodTwoArgIntReturnMultiplication(int first, int second) {
 		// TODO Auto-generated method stub
 		new MethodTwoArgIntReturnMultiplication(3, 5);
 	}
-	
-	/*void MethodTwoArgIntReturnMultiplication(int first, int second ) {
-		
-		System.out.println((long)(first+second));
-	}*/
-
 }
